@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plant-Disease-Recognition-System
 Plant Disease Recognition System
 
@@ -55,3 +56,6 @@ To use this project, you need to download a pre-trained model from the given Goo
 
 3. **Access the Application**
    - Once the server is running, follow the instructions displayed in the terminal to access the application in your web browser.
+=======
+# pest_detection
+>>>>>>> 7a646e2ae06fabe2a4ddf0638d162d0968a90835
